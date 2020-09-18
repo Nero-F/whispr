@@ -1,3 +1,7 @@
+body {
+   overflow-x: hidden; 
+}
+
 .form-focus {
     outline: 0; 
     border-width: 0 0 0px; 
