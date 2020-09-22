@@ -1,5 +1,9 @@
 body {
-   overflow-x: hidden; 
+   overflow-x: hidden;
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 .form-focus {
@@ -71,4 +75,8 @@ body {
 #buttontop.show {
   opacity: 1;
   visibility: visible;
+}
+
+.navitem-c {
+  color: yellow;
 }
